@@ -10,6 +10,7 @@ The Project is titled Udacity "Bikeshare Project"
 Describe what your project is about and what it does
 
 This project analyzes the bikeshare data from NYC, Chicago and Washington.
+It uses raw user data input to help the user answer relevant questions.
 
 ### Files used
 Include the files used
