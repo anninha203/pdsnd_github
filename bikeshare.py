@@ -1,4 +1,4 @@
-# list all the imported datasets 
+# list all the imported datasets
 import pandas as pnd
 import numpy as np
 from datetime import *
@@ -40,7 +40,7 @@ def get_city():
                   'or Washington to continue...')
 
 def get_time_frame():
-# User needs to decide how to filter the data (Month, Day, Both or not at all)
+# User needs to decide how to filter the data (Month, Day of Month or not at all)
     time_frame = ''
     while time_frame.lower() not in ['month', 'day', 'none']:
         time_frame = input('\nHow would you like to filter the data? Please type'
