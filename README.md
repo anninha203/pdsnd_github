@@ -9,6 +9,8 @@ The Project is titled Udacity "Bikeshare Project"
 ### Description
 Describe what your project is about and what it does
 
+This project analyzes the bikeshare data from NYC, Chicago and Washington.
+
 ### Files used
 Include the files used
 Chicago.csv
